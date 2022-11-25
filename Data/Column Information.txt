@@ -1,0 +1,39 @@
+Age - 13-level age category (_AGEG5YR see codebook) 1 = 18-24, 2 = 25-29, …, 9 = 60-64, 13 = 80 or older
+
+Sex - 0 = female, 1 = male
+
+HighChol - 0 = no high cholesterol, 1 = high cholesterol
+
+CholCheck - 0 = no cholesterol check in 5 years, 1 = yes cholesterol check in 5 years
+
+BMI – Body Mass Index. Based on CDC if BMI less than 18.5 than underweight, 18.5 <= BMI <=24.9 than normal or healthy weight, 
+25 <= BMI <= 29.9 than overweight, BMI >= 30 than Overweight 
+(Sourced From CDC’s Website: https://www.cdc.gov/healthyweight/assessing/index.html) 
+
+Smoker - Have you smoked at least 100 cigarettes in your entire life? [Note: 5 packs = 100 cigarettes] 0 = no, 1 = yes
+
+HeartDiseaseorAttack - coronary heart disease (CHD) or myocardial infarction (MI) 0 = no, 1 = yes
+
+PhysActivity - physical activity in past 30 days - not including job 0 = no, 1 = yes
+
+Fruits - Consume Fruit one or more times per day 0 = no, 1 = yes
+
+Veggies - Consume Vegetables 1 or more times per day 0 = no, 1 = yes
+
+HvyAlcoholConsumption (Heavy Alcohol Consumption) - Adult male: more than 14 drinks per week. 
+Adult female: more than 7 drinks per week. 0 = no, 1 = yes
+
+GenHlth (General Health) - Would you say that in general your health is: (scale 1-5) 1 = excellent, 2 = very good, 3 = good, 
+4 = fair, 5 = poor
+
+MentHlth (Mental Health) - days of poor mental health scale 1-30 days
+
+PhysHlth (Physical Health) - physical illness or injury days in past 30 days scale 1-30
+
+DiffWalk (Difficulty Walking) - Do you have serious difficulty walking or climbing stairs? 0 = no, 1 = yes
+
+Diabetes - 0 = no diabetes, 1 = diabetes
+
+Hypertension - 0 = no hypertension, 1 = hypertension
+
+Stroke - 0 = no, 1 = yes
