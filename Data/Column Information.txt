@@ -7,7 +7,7 @@ HighChol - 0 = no high cholesterol, 1 = high cholesterol
 CholCheck - 0 = no cholesterol check in 5 years, 1 = yes cholesterol check in 5 years
 
 BMI – Body Mass Index. Based on CDC if BMI less than 18.5 than underweight, 18.5 <= BMI <=24.9 than normal or healthy weight, 
-25 <= BMI <= 29.9 than overweight, BMI >= 30 than Overweight 
+25 <= BMI <= 29.9 than overweight, BMI >= 30 than obese
 (Sourced From CDC’s Website: https://www.cdc.gov/healthyweight/assessing/index.html) 
 
 Smoker - Have you smoked at least 100 cigarettes in your entire life? [Note: 5 packs = 100 cigarettes] 0 = no, 1 = yes
